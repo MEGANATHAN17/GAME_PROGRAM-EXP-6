@@ -1,7 +1,7 @@
 # GAME_PROGRAM-EXP-6
 # Implement the AI random movement.
-# Name : HALIMA HARISHA A
-# Reg no : 212224040094
+# Name : MEGANATHAN R
+# Reg no : 212224230156
 
 # AIM :
 Implement the AI random movement.
